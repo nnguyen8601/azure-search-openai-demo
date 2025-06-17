@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "AI Therapy Assistant",
+    "headerTitle": "AI Therapy Assistant",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,20 +34,20 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
-    "chatEmptyStateSubtitle": "Ask anything or try an example",
+    "chatEmptyStateTitle": "AI Therapy Assistant",
+    "chatEmptyStateSubtitle": "Get help creating treatment plans and clinical insights",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "What evidence-based treatment approaches are recommended for a patient with symptoms of major depressive disorder?",
+        "2": "How can I develop a treatment plan for a client experiencing anxiety and panic attacks?",
+        "3": "What are the best therapeutic interventions for trauma-related symptoms in adolescents?",
+        "placeholder": "Ask about treatment approaches, assessment tools, or clinical guidelines (e.g. CBT techniques for depression)"
     },
-    "askTitle": "Ask your data",
+    "askTitle": "Clinical Treatment Assistant",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "1": "Analyze this patient's symptom assessment and suggest appropriate treatment modalities.",
+        "2": "What treatment protocols are most effective for this client's presenting symptoms?",
+        "3": "Review this case study and recommend evidence-based interventions for the patient's condition.",
+        "placeholder": "Upload patient documents or assessments for treatment recommendations"
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
